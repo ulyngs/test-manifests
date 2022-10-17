@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "https://ochs-database-demo.netlify.app/manifests/ochs_s_000_000_002_amrtesatantram.json",
+  "@id": "https://raw.githubusercontent.com/ulyngs/test-manifests/main/test.json",
   "label": "Amṛteśatantram",
   "description": "The Tantra of the Lord of Immortality",
   "metadata": [
