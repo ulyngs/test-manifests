@@ -3124,9 +3124,6 @@
                     "@id": "https://digital.library.villanova.edu/files/vudl:278344/MASTER",
                     "format": "application/pdf",
                     "label": "All images in a PDF file (high resolution, SIZE)"
-                },
-                {
-                    "label": "Enquire about..."
                 }
             ]
     }
