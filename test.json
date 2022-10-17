@@ -104,7 +104,8 @@
                   "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_1/canvas/1",
                   "resource": {
                     "@type": "dctypes:Image",
-                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__000a.jpg"
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__000a.jpg",
+                    "label": "Technical Metadata"
                   }
                 }
               ]
