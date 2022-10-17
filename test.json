@@ -96,6 +96,23 @@
             "@type": "sc:Canvas",
             "label": "DOC__000a.jpg",
             "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_1/canvas/1",
+              "rendering": [
+                        {
+                            "@id": "https://digital.library.villanova.edu/files/vudl:24301/MASTER",
+                            "format": "image/tiff",
+                            "label": "Original source file - 20.63 MB"
+                        },
+                        {
+                            "@id": "https://digital.library.villanova.edu/files/vudl:24301/OCR-DIRTY",
+                            "format": "text/plain",
+                            "label": "Raw OCR Data"
+                        },
+                        {
+                            "@id": "https://digital.library.villanova.edu/files/vudl:24301/MASTER-MD",
+                            "format": "application/xml",
+                            "label": "Technical Metadata"
+                        }
+                    ],
             "width": 2000,
             "height": 1000,
               "images": [
