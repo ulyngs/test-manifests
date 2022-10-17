@@ -1,0 +1,251 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://ochs-database-demo.netlify.app/manifests/ochs_s_000_000_002_amrtesatantram.json",
+  "label": "Amṛteśatantram",
+  "description": "The Tantra of the Lord of Immortality",
+  "metadata": [
+    {
+      "label": "Internal catalogue id",
+      "value": "ochs_s_000_000_002_amrtesatantram"
+    },
+{
+      "label": "Date of copying",
+      "value": "1200 CE"
+    },
+{
+      "label": "Date of copying (local calendar)",
+      "value": "NS 320 caitraśukla 9 śanivāsara (Saturday, the 9th of the bright fortnight of Caitra in Nepāla Era year 320)"
+    },
+{
+      "label": "Dating (UTC)",
+      "value": "1200-01-01"
+    },
+{
+      "label": "Language",
+      "value": "Sanskrit"
+    },
+{
+      "label": "Script",
+      "value": "Nandīnāgarī/Jainanāgarī"
+    },
+{
+      "label": "Material",
+      "value": "palm-leaf"
+    },
+{
+      "label": "Size",
+      "value": "32.0cm x 5.5cm (NGMCP)"
+    },
+{
+      "label": "Condition",
+      "value": "Complete, in good condition with few damaged folios"
+    },
+{
+      "label": "Binding hole",
+      "value": "One in centre left"
+    },
+{
+      "label": "Folios",
+      "value": "89"
+    },
+{
+      "label": "Lines per folio",
+      "value": "4-5"
+    },
+{
+      "label": "Foliation",
+      "value": "Numerals in the left margin of the verso side."
+    },
+{
+      "label": "Subject(s)",
+      "value": "Śākta-Śaiva tantra"
+    },
+{
+      "label": "Place where manuscript was written",
+      "value": "Nepal"
+    },
+{
+      "label": "Scribe",
+      "value": "Kīrtidhara"
+    },
+{
+      "label": "Codices",
+      "value": "Σ = K1 N1 N2"
+    },
+{
+      "label": "Transliterated by",
+      "value": "Gavin Flood, Rajan Khatiwoda (ch. 6-8)"
+    },
+{
+      "label": "Translated by",
+      "value": "English translation: Gavin Flood, Bjarne Wernicke-Olesen, Rajan Khatiwoda"
+    },
+{
+      "label": "Relevant secondary literature",
+      "value": "Alexis Sanderson, ‘Religion and the State: Śaiva Officiants in the Territory of the King’s brahmanical Chaplain,’ p. 238, Indo-Iranian Journal, vol. 47, 2004, pp. 229-300."
+    }
+  ],
+  "license": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "attribution": "Photos bought by Dr Bjarne Wernicke-Olesen from the NAK on 19.4.2018",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+            {
+            "@type": "sc:Canvas",
+            "label": "DOC__000a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_1/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_1/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__000a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__000b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_2/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_2/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__000b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__085a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_171/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_171/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__085a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__085b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_172/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_172/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__085b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__086a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_173/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_173/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__086a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__086b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_174/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_174/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__086b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__087a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_175/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_175/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__087a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__087b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_176/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_176/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__087b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__088.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_177/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_177/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__088.jpg"
+                  }
+                }
+              ]
+            }
+          ]
+    }
+  ]
+}
