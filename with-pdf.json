@@ -3119,11 +3119,6 @@
                     "@id": "https://digital.library.villanova.edu/files/vudl:278344/MASTER",
                     "format": "application/pdf",
                     "label": "PDF"
-                },
-                {
-                    "@id": "mailto:secretary@ochs.org.uk?subject=Request%20for%20access%20to%20original%20photos",
-                    "format": "email",
-                    "label": "To inquire about access to the original images in RAW format, email us"
                 }
             ]
     }
