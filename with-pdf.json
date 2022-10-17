@@ -3118,7 +3118,12 @@
                 {
                     "@id": "https://digital.library.villanova.edu/files/vudl:278344/MASTER",
                     "format": "application/pdf",
-                    "label": "PDF"
+                    "label": "All images in a PDF file (low resolution, SIZE)"
+                },
+                {
+                    "@id": "https://digital.library.villanova.edu/files/vudl:278344/MASTER",
+                    "format": "application/pdf",
+                    "label": "All images in a PDF file (high resolution, SIZE)"
                 }
             ]
     }
