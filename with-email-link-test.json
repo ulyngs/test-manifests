@@ -729,8 +729,7 @@
                     "label": "All images in a PDF file (high resolution, SIZE)"
                 },
                 {
-                    "@id": "mailto:secretary@ochs.org.uk?subject=Request%20for%20access%20to%20original%20photos",
-                    "format": "application/pdf",
+                    "@id": "secretary@ochs.org.uk",
                     "label": 'Contact us'
                 }
             ]
