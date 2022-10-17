@@ -729,8 +729,7 @@
                     "label": "All images in a PDF file (high resolution, SIZE)"
                 },
                 {
-                    "@id": "secretary@ochs.org.uk",
-                    "label": 'Contact us'
+                    "label": 'To enquire about access to the original files in RAW format, contact secretary@ochs.org.uk'
                 }
             ]
     }
