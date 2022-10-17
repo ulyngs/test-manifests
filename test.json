@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "https://raw.githubusercontent.com/ulyngs/test-manifests/main/test.json",
+  "@id": "https://ochs-database-demo.netlify.app/manifests/ochs_s_000_000_002_amrtesatantram.json",
   "label": "Amṛteśatantram",
   "description": "The Tantra of the Lord of Immortality",
   "metadata": [
@@ -10,9 +10,84 @@
       "value": "ochs_s_000_000_002_amrtesatantram"
     },
 {
+      "label": "Date of copying",
+      "value": "1200 CE"
+    },
+{
+      "label": "Date of copying (local calendar)",
+      "value": "NS 320 caitraśukla 9 śanivāsara (Saturday, the 9th of the bright fortnight of Caitra in Nepāla Era year 320)"
+    },
+{
+      "label": "Dating (UTC)",
+      "value": "1200-01-01"
+    },
+{
+      "label": "Language",
+      "value": "Sanskrit"
+    },
+{
+      "label": "Script",
+      "value": "Nandīnāgarī/Jainanāgarī"
+    },
+{
+      "label": "Material",
+      "value": "palm-leaf"
+    },
+{
+      "label": "Size",
+      "value": "32.0cm x 5.5cm (NGMCP)"
+    },
+{
+      "label": "Condition",
+      "value": "Complete, in good condition with few damaged folios"
+    },
+{
+      "label": "Binding hole",
+      "value": "One in centre left"
+    },
+{
+      "label": "Folios",
+      "value": "89"
+    },
+{
+      "label": "Lines per folio",
+      "value": "4-5"
+    },
+{
+      "label": "Foliation",
+      "value": "Numerals in the left margin of the verso side."
+    },
+{
+      "label": "Subject(s)",
+      "value": "Śākta-Śaiva tantra"
+    },
+{
+      "label": "Place where manuscript was written",
+      "value": "Nepal"
+    },
+{
+      "label": "Scribe",
+      "value": "Kīrtidhara"
+    },
+{
+      "label": "Codices",
+      "value": "Σ = K1 N1 N2"
+    },
+{
+      "label": "Transliterated by",
+      "value": "Gavin Flood, Rajan Khatiwoda (ch. 6-8)"
+    },
+{
       "label": "Translated by",
       "value": "English translation: Gavin Flood, Bjarne Wernicke-Olesen, Rajan Khatiwoda"
     },
+{
+      "label": "Relevant secondary literature",
+      "value": "Alexis Sanderson, ‘Religion and the State: Śaiva Officiants in the Territory of the King’s brahmanical Chaplain,’ p. 238, Indo-Iranian Journal, vol. 47, 2004, pp. 229-300."
+    }
+  ],
+  "license": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "attribution": "Photos bought by Dr Bjarne Wernicke-Olesen from the NAK on 19.4.2018",
   "sequences": [
     {
       "@type": "sc:Sequence",
@@ -21,18 +96,6 @@
             "@type": "sc:Canvas",
             "label": "DOC__000a.jpg",
             "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_1/canvas/1",
-            "rendering": [
-                        {
-                            "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__000a.jpg",
-                            "format": "image/tiff",
-                            "label": "Current image, small (SIZE)"
-                        },
-                        {
-                            "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgLarge/DOC__000a.jpg",
-                            "format": "image/tiff",
-                            "label": "Current image, large (SIZE)"
-                        }
-                    ],
             "width": 2000,
             "height": 1000,
               "images": [
@@ -41,8 +104,7 @@
                   "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_1/canvas/1",
                   "resource": {
                     "@type": "dctypes:Image",
-                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__000a.jpg",
-                    "label": "Technical Metadata"
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__000a.jpg"
                   }
                 }
               ]
@@ -63,8 +125,2983 @@
                   }
                 }
               ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__001a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_3/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_3/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__001a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__001b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_4/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_4/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__001b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__002a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_5/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_5/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__002a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__002b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_6/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_6/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__002b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__003a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_7/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_7/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__003a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__003b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_8/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_8/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__003b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__004a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_9/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_9/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__004a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__004b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_10/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_10/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__004b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__005a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_11/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_11/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__005a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__005b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_12/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_12/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__005b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__006a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_13/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_13/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__006a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__006b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_14/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_14/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__006b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__007a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_15/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_15/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__007a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__007b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_16/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_16/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__007b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__008a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_17/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_17/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__008a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__008b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_18/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_18/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__008b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__009a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_19/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_19/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__009a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__009b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_20/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_20/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__009b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__010a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_21/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_21/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__010a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__010b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_22/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_22/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__010b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__011a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_23/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_23/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__011a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__011b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_24/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_24/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__011b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__012a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_25/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_25/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__012a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__012b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_26/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_26/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__012b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__013a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_27/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_27/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__013a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__013b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_28/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_28/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__013b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__014a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_29/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_29/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__014a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__014b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_30/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_30/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__014b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__015a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_31/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_31/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__015a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__015b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_32/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_32/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__015b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__016a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_33/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_33/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__016a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__016b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_34/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_34/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__016b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__017a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_35/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_35/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__017a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__017b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_36/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_36/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__017b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__018a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_37/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_37/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__018a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__018b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_38/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_38/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__018b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__019a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_39/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_39/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__019a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__019b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_40/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_40/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__019b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__020a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_41/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_41/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__020a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__020b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_42/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_42/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__020b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__021a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_43/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_43/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__021a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__021b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_44/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_44/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__021b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__022a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_45/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_45/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__022a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__022b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_46/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_46/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__022b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__023a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_47/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_47/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__023a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__023b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_48/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_48/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__023b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__024a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_49/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_49/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__024a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__024b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_50/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_50/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__024b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__025a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_51/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_51/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__025a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__025b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_52/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_52/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__025b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__026a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_53/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_53/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__026a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__026b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_54/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_54/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__026b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__027a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_55/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_55/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__027a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__027b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_56/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_56/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__027b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__028a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_57/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_57/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__028a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__028b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_58/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_58/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__028b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__029a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_59/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_59/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__029a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__029b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_60/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_60/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__029b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__030a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_61/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_61/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__030a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__030b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_62/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_62/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__030b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__031a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_63/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_63/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__031a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__031b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_64/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_64/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__031b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__032a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_65/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_65/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__032a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__032b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_66/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_66/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__032b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__033a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_67/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_67/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__033a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__033b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_68/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_68/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__033b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__034a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_69/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_69/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__034a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__034b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_70/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_70/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__034b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__035a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_71/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_71/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__035a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__035b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_72/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_72/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__035b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__036a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_73/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_73/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__036a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__036b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_74/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_74/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__036b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__037a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_75/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_75/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__037a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__037b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_76/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_76/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__037b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__038a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_77/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_77/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__038a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__038b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_78/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_78/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__038b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__039a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_79/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_79/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__039a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__039b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_80/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_80/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__039b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__040a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_81/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_81/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__040a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__040b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_82/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_82/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__040b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__041a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_83/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_83/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__041a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__041b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_84/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_84/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__041b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__042a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_85/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_85/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__042a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__042b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_86/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_86/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__042b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__043a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_87/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_87/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__043a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__043b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_88/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_88/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__043b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__044a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_89/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_89/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__044a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__044b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_90/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_90/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__044b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__045a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_91/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_91/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__045a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__045b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_92/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_92/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__045b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__046a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_93/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_93/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__046a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__046b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_94/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_94/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__046b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__047a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_95/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_95/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__047a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__047b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_96/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_96/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__047b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__048a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_97/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_97/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__048a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__048b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_98/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_98/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__048b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__049a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_99/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_99/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__049a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__049b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_100/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_100/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__049b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__050a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_101/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_101/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__050a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__050b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_102/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_102/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__050b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__051a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_103/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_103/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__051a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__051b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_104/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_104/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__051b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__052a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_105/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_105/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__052a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__052b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_106/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_106/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__052b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__053a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_107/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_107/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__053a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__053b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_108/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_108/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__053b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__054a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_109/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_109/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__054a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__054b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_110/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_110/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__054b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__055a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_111/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_111/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__055a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__055b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_112/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_112/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__055b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__056a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_113/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_113/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__056a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__056b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_114/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_114/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__056b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__057a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_115/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_115/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__057a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__057b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_116/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_116/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__057b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__058a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_117/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_117/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__058a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__058b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_118/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_118/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__058b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__059a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_119/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_119/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__059a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__059b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_120/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_120/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__059b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__060a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_121/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_121/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__060a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__060b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_122/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_122/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__060b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__061a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_123/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_123/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__061a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__061b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_124/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_124/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__061b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__062a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_125/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_125/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__062a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__062b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_126/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_126/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__062b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__063a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_127/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_127/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__063a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__063b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_128/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_128/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__063b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__064a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_129/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_129/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__064a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__064b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_130/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_130/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__064b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__065a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_131/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_131/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__065a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__065b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_132/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_132/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__065b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__066a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_133/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_133/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__066a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__066b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_134/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_134/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__066b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__067a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_135/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_135/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__067a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__067b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_136/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_136/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__067b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__068a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_137/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_137/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__068a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__068b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_138/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_138/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__068b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__069a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_139/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_139/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__069a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__069b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_140/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_140/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__069b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__070a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_141/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_141/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__070a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__070b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_142/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_142/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__070b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__071a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_143/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_143/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__071a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__071b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_144/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_144/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__071b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__072a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_145/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_145/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__072a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__072b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_146/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_146/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__072b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__073a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_147/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_147/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__073a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__073b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_148/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_148/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__073b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__074a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_149/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_149/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__074a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__074b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_150/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_150/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__074b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__075a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_151/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_151/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__075a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__075b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_152/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_152/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__075b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__076a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_153/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_153/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__076a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__076b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_154/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_154/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__076b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__077a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_155/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_155/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__077a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__077b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_156/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_156/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__077b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__078a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_157/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_157/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__078a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__078b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_158/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_158/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__078b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__079a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_159/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_159/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__079a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__079b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_160/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_160/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__079b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__080a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_161/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_161/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__080a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__080b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_162/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_162/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__080b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__081a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_163/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_163/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__081a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__081b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_164/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_164/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__081b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__082a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_165/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_165/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__082a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__082b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_166/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_166/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__082b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__083a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_167/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_167/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__083a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__083b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_168/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_168/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__083b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__084a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_169/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_169/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__084a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__084b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_170/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_170/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__084b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__085a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_171/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_171/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__085a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__085b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_172/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_172/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__085b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__086a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_173/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_173/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__086a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__086b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_174/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_174/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__086b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__087a.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_175/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_175/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__087a.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__087b.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_176/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_176/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__087b.jpg"
+                  }
+                }
+              ]
+            },
+{
+            "@type": "sc:Canvas",
+            "label": "DOC__088.jpg",
+            "@id": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_177/canvas/1",
+            "width": 2000,
+            "height": 1000,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "on": "https://ochs-database-demo.netlify.app/ochs_s_000_000_002_amrtesatantram/img_177/canvas/1",
+                  "resource": {
+                    "@type": "dctypes:Image",
+                    "@id": "https://db-website-photos.s3.eu-west-2.amazonaws.com/sakta/ochs_s_000_000_002_amrtesatantram/jpgSmall/DOC__088.jpg"
+                  }
+                }
+              ]
             }
-        ]
+          ]
     }
   ]
 }
