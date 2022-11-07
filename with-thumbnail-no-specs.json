@@ -50,9 +50,7 @@
                           {
                             "id": "https://fixtures.iiif.io/video/indiana/donizetti-elixir/act1-thumbnail.png",
                             "type": "Image",
-                            "format": "image/png",
-                            "width": 640,
-                            "height": 360
+                            "format": "image/png"
                           }
                         ],
               "images": [
